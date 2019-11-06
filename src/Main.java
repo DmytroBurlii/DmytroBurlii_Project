@@ -5,5 +5,6 @@ public class Main {
         //BinSearch.main(null);
         //InsertionSort.main(null);
         //BubbleSort.main(null);
+        Functions.main(null);
     }
 }
